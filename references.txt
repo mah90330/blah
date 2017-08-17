@@ -2,6 +2,8 @@ Exercise 1
 blah blah blah
 new line for exercise #2
 
+<<<<<<< HEAD
 commit but not add test
 
 fucking this up
+i win merge conflict
